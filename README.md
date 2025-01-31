@@ -49,9 +49,5 @@ A simple RESTful API for managing tasks, built using **Node.js**, **Express.js**
 - **Middleware**: Async error handling, Custom error handler  
 - **Environment Configuration**: dotenv  
 
-## **Contributing**
-Feel free to fork this repository and contribute! You can submit issues or create pull requests to improve this project.
 
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
 
